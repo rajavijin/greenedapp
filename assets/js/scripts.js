@@ -168,4 +168,6 @@ $(document).ready(function() {
 
     appMaster.placeHold();
 
+    appMaster.preLoader();
+
 });
